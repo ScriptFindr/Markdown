@@ -34,7 +34,7 @@ Blockquote
 
 > Blockquote
 > 
-> > Nested Blockquote
+> 
 > 
 > Blockquote
 
