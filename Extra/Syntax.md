@@ -1,6 +1,9 @@
 # Comment
 ```
-[comment]: # (This is a comment)
+[comment]: # (This is a single-line comment)
+[comment]: # (
+This is a multi-line comment
+)
 ```
 
 # Escape Characters
