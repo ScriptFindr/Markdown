@@ -48,23 +48,15 @@ Blockquote
 
 # Lists
 ```
-- Unordered List: Disc
-- Unordered List: Disc
+Unordered
+- Item: Disc
+* Item: Circle
++ Item: Square
 
-* Unordered List: Circle
-* Unordered List: Circle
-
-+ Unordered List: Square
-+ Unordered List: Square
-
-1. Ordered List: Decimal
-2. Ordered List: Decimal
-
-a. Ordered List: Alpha
-b. Ordered List: Alpha
-
-I. Ordered List: Roman
-II. Ordered List: Roman
+Ordered
+1. Item: Decimal
+b. Item: Alpha
+II. Item: Roman
 ```
 
 # Horizontal Rules
